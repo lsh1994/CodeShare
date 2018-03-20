@@ -1,0 +1,122 @@
+,0,1,2,3,4
+0,http://blog.csdn.net/nima1994/article/details/79630087,jupyter notebook加载到csdn里,2018-03-20 19:02:54,2,0
+1,http://blog.csdn.net/nima1994/article/details/79579062,anaconda结合pyqt designer,2018-03-16 11:17:11,26,0
+2,http://blog.csdn.net/nima1994/article/details/79574285,OpenCV-Python learning-6.图像算术运算（简单应用）,2018-03-15 21:20:44,6,0
+3,http://blog.csdn.net/nima1994/article/details/79572225,OpenCV-Python learning-6.图像算术运算（下）,2018-03-15 18:48:57,11,0
+4,http://blog.csdn.net/nima1994/article/details/79568682,OpenCV-Python learning-6.图像算术运算（上）,2018-03-15 15:27:03,9,0
+5,http://blog.csdn.net/nima1994/article/details/79565326,pandas笔记（上）,2018-03-15 11:16:42,7,0
+6,http://blog.csdn.net/nima1994/article/details/79564622,Ubuntu开机时直接进入命令行模式,2018-03-15 10:45:11,33,0
+7,http://blog.csdn.net/nima1994/article/details/79505708,gdal中shapefile坐标度转换到栅格米,2018-03-10 10:37:54,16,0
+8,http://blog.csdn.net/nima1994/article/details/79500230,gdal错误：ERROR 4: This is a BigTIFF file. BigTIFF is not supported by this version of,2018-03-09 17:14:52,12,0
+9,http://blog.csdn.net/nima1994/article/details/79461600,tensorflow mnist手写字体读取使用,2018-03-06 17:51:01,16,0
+10,http://blog.csdn.net/nima1994/article/details/79443872,tensorflow报错：ValueError: features should be a dictionary of `Tensor`s. Given type: ……,2018-03-05 11:36:54,68,0
+11,http://blog.csdn.net/nima1994/article/details/79436774,python gdal帮助文档,2018-03-04 15:00:24,34,0
+12,http://blog.csdn.net/nima1994/article/details/79392347,scikit-learn学习笔记（一）,2018-02-27 19:26:07,10,0
+13,http://blog.csdn.net/nima1994/article/details/79320180,三维可视化python mayavi安装,2018-02-13 09:45:29,56,0
+14,http://blog.csdn.net/nima1994/article/details/79207805,python gdal安装与简单使用,2018-01-30 16:36:13,99,0
+15,http://blog.csdn.net/nima1994/article/details/79194204,python知识笔记,2018-01-29 13:22:22,45,0
+16,http://blog.csdn.net/nima1994/article/details/79143640,win10常用快捷键,2018-01-23 19:30:46,45,0
+17,http://blog.csdn.net/nima1994/article/details/79105392,python爬虫练习6：今日头条搜索图集,2018-01-19 12:18:57,112,0
+18,http://blog.csdn.net/nima1994/article/details/79099220,selenium淘宝的搜索按钮获取不到？,2018-01-18 18:01:29,187,0
+19,http://blog.csdn.net/nima1994/article/details/79076764,使用tesseract识别二维码,2018-01-16 16:52:41,86,0
+20,http://blog.csdn.net/nima1994/article/details/79062278,idea等去掉函数参数类型显示,2018-01-15 11:07:10,135,0
+21,http://blog.csdn.net/nima1994/article/details/79060423,mysql半夜0点弹窗,2018-01-15 00:13:07,97,0
+22,http://blog.csdn.net/nima1994/article/details/79040845,jsp include乱码,2018-01-12 10:04:43,23,0
+23,http://blog.csdn.net/nima1994/article/details/79031151,word中数字保留两位小数,2018-01-11 10:24:20,248,0
+24,http://blog.csdn.net/nima1994/article/details/79015491,挖金矿与动态规划（续）,2018-01-09 17:37:38,38,0
+25,http://blog.csdn.net/nima1994/article/details/79004001,完全卸载office,2018-01-08 16:04:09,67,0
+26,http://blog.csdn.net/nima1994/article/details/79000926,挖金矿与动态规划,2018-01-08 11:24:25,71,0
+27,http://blog.csdn.net/nima1994/article/details/78988595,使用教育邮箱免费激活JetBrains IDEA/Pycharm/Phpstorm/webstorm等,2018-01-06 14:28:32,712,0
+28,http://blog.csdn.net/nima1994/article/details/78985532,注销 睡眠 休眠的区别,2018-01-05 21:54:23,149,0
+29,http://blog.csdn.net/nima1994/article/details/78939992,knn算法改进与实现,2017-12-30 22:54:31,71,0
+30,http://blog.csdn.net/nima1994/article/details/78899314,pycharm报错：ModuleNotFoundError: No module named 'XXX',2017-12-26 10:11:41,1946,0
+31,http://blog.csdn.net/nima1994/article/details/78899016,OpenCV-Python learning-5.图像基本操作,2017-12-26 09:48:11,55,0
+32,http://blog.csdn.net/nima1994/article/details/78857736,OpenCV-Python learning-4.鼠标事件、刻度条,2017-12-21 10:27:46,57,0
+33,http://blog.csdn.net/nima1994/article/details/78855040,OpenCV-Python learning-3.绘制,2017-12-20 16:51:22,51,0
+34,http://blog.csdn.net/nima1994/article/details/78796622,ARCGIS将WGS84坐标投影到高斯平面,2017-12-13 20:48:46,78,0
+35,http://blog.csdn.net/nima1994/article/details/78764018,OpenCV-Python learning-2.视频、相机简单处理,2017-12-10 12:04:27,81,0
+36,http://blog.csdn.net/nima1994/article/details/78761562,python print省略号,2017-12-09 20:51:17,51,0
+37,http://blog.csdn.net/nima1994/article/details/78760386,OpenCV-Python learning-1.安装，图片读取显示,2017-12-09 17:17:58,75,0
+38,http://blog.csdn.net/nima1994/article/details/78759672,OpenCV-Python learning-0.前言,2017-12-09 15:57:35,60,0
+39,http://blog.csdn.net/nima1994/article/details/78745698,error: C1083: 无法打开包括文件: “QApplication”: No such file or directory,2017-12-07 20:48:25,50,0
+40,http://blog.csdn.net/nima1994/article/details/78727483,ValueError: Masked arrays must be 1-D,2017-12-06 09:59:17,1082,0
+41,http://blog.csdn.net/nima1994/article/details/78695072,latex显示所有参考文献,2017-12-02 13:39:22,254,0
+42,http://blog.csdn.net/nima1994/article/details/78690900,利用weka.jar算法改进,2017-12-01 20:43:26,57,0
+43,http://blog.csdn.net/nima1994/article/details/78685365,weka中属性值的理解：(int) data.instance(i).classValue(),2017-12-01 12:17:56,111,0
+44,http://blog.csdn.net/nima1994/article/details/78674777,eclipse关闭悬浮提示,2017-11-30 12:29:55,111,0
+45,http://blog.csdn.net/nima1994/article/details/78670599,visual studio(vs)初始化,2017-11-29 22:12:47,81,0
+46,http://blog.csdn.net/nima1994/article/details/78651736,pyshp读写shapefile,2017-11-28 09:43:51,627,0
+47,http://blog.csdn.net/nima1994/article/details/78573274,envi分类后修改类名称、显示颜色,2017-11-19 11:15:29,578,0
+48,http://blog.csdn.net/nima1994/article/details/78420637,weka遇到java.util.zip.ZipException: invalid LOC header (bad signature),2017-11-02 08:13:28,158,0
+49,http://blog.csdn.net/nima1994/article/details/78416541,Windows平台安装Hadoop,2017-11-01 17:36:27,163,0
+50,http://blog.csdn.net/nima1994/article/details/78360898,Ubuntu禁用临时客人会话,2017-10-27 09:13:44,167,0
+51,http://blog.csdn.net/nima1994/article/details/78344342,vmware workstation14永久激活密钥分享,2017-10-25 17:52:15,211,0
+52,http://blog.csdn.net/nima1994/article/details/78306207,spring中的IOC,2017-10-21 20:45:06,58,0
+53,http://blog.csdn.net/nima1994/article/details/78301798,word的高级查找替换,2017-10-21 10:34:33,80,0
+54,http://blog.csdn.net/nima1994/article/details/78254813,spring各版本下载,2017-10-16 21:44:18,90,0
+55,http://blog.csdn.net/nima1994/article/details/78222854,vs使用mfc类向导重写父类,2017-10-13 10:20:01,135,0
+56,http://blog.csdn.net/nima1994/article/details/78155701,python爬虫练习5：博客阅读量助手,2017-10-03 18:26:47,236,0
+57,http://blog.csdn.net/nima1994/article/details/78148841,bmp字节对齐公式,2017-10-01 21:04:43,234,0
+58,http://blog.csdn.net/nima1994/article/details/78121761,关于bmp 4字节对齐,2017-09-28 11:28:08,206,0
+59,http://blog.csdn.net/nima1994/article/details/78121231,c++读取24位BMP图像并处理,2017-09-28 11:00:58,200,0
+60,http://blog.csdn.net/nima1994/article/details/78077187,tensorflow安装：“ModuleNotFoundError: No module named '_pywrap_tensorflow_internal'”,2017-09-24 15:36:19,589,0
+61,http://blog.csdn.net/nima1994/article/details/78050662,Envi ROI Tool的Record Count为0,2017-09-21 12:46:53,335,0
+62,http://blog.csdn.net/nima1994/article/details/77840815,python爬虫练习4：刷博客浏览量,2017-09-04 19:21:58,261,0
+63,http://blog.csdn.net/nima1994/article/details/77821980,arcgis/arcmap面共用边,2017-09-03 14:01:22,1200,0
+64,http://blog.csdn.net/nima1994/article/details/75201036,python爬虫练习3,2017-07-16 13:25:32,234,0
+65,http://blog.csdn.net/nima1994/article/details/75098643,python爬虫练习2,2017-07-14 10:49:24,298,0
+66,http://blog.csdn.net/nima1994/article/details/74990387,python爬虫练习1,2017-07-11 17:55:47,344,0
+67,http://blog.csdn.net/nima1994/article/details/74931621,Scrapy安装错误：Microsoft Visual C++ 14.0 is required...,2017-07-10 17:20:17,31966,31
+68,http://blog.csdn.net/nima1994/article/details/73733167,c#获取文件夹指定的多种类型的文件,2017-06-26 10:45:03,693,0
+69,http://blog.csdn.net/nima1994/article/details/73733047,c#打开资源管理器,2017-06-26 10:35:43,771,0
+70,http://blog.csdn.net/nima1994/article/details/73610824,potplayer自定义加速播放,2017-06-22 20:28:55,265,0
+71,http://blog.csdn.net/nima1994/article/details/72892285,JSONObject text must begin with '{' at character 1 of错误解决,2017-06-06 23:52:16,2540,0
+72,http://blog.csdn.net/nima1994/article/details/72819973,Java中文分词hanlp使用,2017-05-31 14:24:12,5190,3
+73,http://blog.csdn.net/nima1994/article/details/72793332,python的KNN算法基本实现,2017-05-28 15:38:27,282,0
+74,http://blog.csdn.net/nima1994/article/details/72786725,python读取csv文件,2017-05-27 23:11:56,493,0
+75,http://blog.csdn.net/nima1994/article/details/72784545,机器学习数据集获取,2017-05-27 21:50:19,307,0
+76,http://blog.csdn.net/nima1994/article/details/70344682,pycharm  有些库（函数）没有代码提示,2017-04-22 08:50:42,7331,2
+77,http://blog.csdn.net/nima1994/article/details/70306579,python杨辉三角,2017-04-20 23:22:48,221,0
+78,http://blog.csdn.net/nima1994/article/details/69665866,Java的IO与NIO简单介绍,2017-04-08 10:56:04,449,0
+79,http://blog.csdn.net/nima1994/article/details/69588003,JavaSwing拼图游戏与源码,2017-04-07 18:07:08,261,0
+80,http://blog.csdn.net/nima1994/article/details/68957981,文件和表单的简单上传,2017-04-03 11:50:15,169,0
+81,http://blog.csdn.net/nima1994/article/details/68951191,文件误删与反编译,2017-04-02 11:02:53,236,0
+82,http://blog.csdn.net/nima1994/article/details/68486471,swing界面设计之添加好友、个人信息,2017-03-30 14:20:01,353,0
+83,http://blog.csdn.net/nima1994/article/details/68486299,swing界面设计之好友列表、消息对话框,2017-03-30 14:10:24,320,0
+84,http://blog.csdn.net/nima1994/article/details/68486131,swing界面设计之登录注册界面,2017-03-30 13:56:24,1445,0
+85,http://blog.csdn.net/nima1994/article/details/68062958,setPreferredSize和setSize的区别,2017-03-29 12:08:01,340,0
+86,http://blog.csdn.net/nima1994/article/details/67646511,如何关闭eclipse的breadcrumb,2017-03-28 20:58:02,566,0
+87,http://blog.csdn.net/nima1994/article/details/65657250,资源分配图化简法-操作系统·死锁,2017-03-24 21:35:20,2771,0
+88,http://blog.csdn.net/nima1994/article/details/57397527,IDEA 等常用编程软件注册码集合,2017-02-26 09:21:15,698,0
+89,http://blog.csdn.net/nima1994/article/details/57395942,如何删除Eclipse subclipse中记住的SVN用户名密码,2017-02-26 09:12:43,185,0
+90,http://blog.csdn.net/nima1994/article/details/53769950,sublime作为markdown编辑器,2016-12-20 22:13:51,187,0
+91,http://blog.csdn.net/nima1994/article/details/53367178,Android多线程ListView加载并缓冲图片,2016-11-27 21:51:20,152,0
+92,http://blog.csdn.net/nima1994/article/details/52973130,建立自己的网站,2016-10-30 17:36:27,180,0
+93,http://blog.csdn.net/nima1994/article/details/52548917,PID11 / 计数的梦,2016-09-15 10:22:03,238,0
+94,http://blog.csdn.net/nima1994/article/details/52548809,佳佳的魔法照片,2016-09-15 09:45:52,96,0
+95,http://blog.csdn.net/nima1994/article/details/52474783,PID4/数列,2016-09-08 20:29:02,172,0
+96,http://blog.csdn.net/nima1994/article/details/52470618,Jam的计数法,2016-09-08 13:31:19,127,0
+97,http://blog.csdn.net/nima1994/article/details/52453143,明明的随机数,2016-09-06 20:14:26,109,0
+98,http://blog.csdn.net/nima1994/article/details/52373424,双缓冲与Java swing,2016-08-30 21:49:20,362,0
+99,http://blog.csdn.net/nima1994/article/details/52373157,JFrame与Frame不同,2016-08-30 21:27:18,212,0
+100,http://blog.csdn.net/nima1994/article/details/52370961,Pattern.compile的flag参数,2016-08-30 16:58:12,239,0
+101,http://blog.csdn.net/nima1994/article/details/51960101,git修改启动目录和改变项目位置,2016-07-19 22:23:27,921,0
+102,http://blog.csdn.net/nima1994/article/details/51933850,layer子窗口与父窗口传值,2016-07-17 19:29:25,828,0
+103,http://blog.csdn.net/nima1994/article/details/51884443,jsp中css突然不能访问,2016-07-11 22:11:32,240,0
+104,http://blog.csdn.net/nima1994/article/details/51878189,jsp访问数据库问题,2016-07-11 09:14:49,149,0
+105,http://blog.csdn.net/nima1994/article/details/51873153,元数据（metadata）,2016-07-10 20:21:52,298,0
+106,http://blog.csdn.net/nima1994/article/details/51775031,递归解n皇后,2016-06-30 18:13:42,200,0
+107,http://blog.csdn.net/nima1994/article/details/51762550,大数阶乘,2016-06-26 14:08:42,214,0
+108,http://blog.csdn.net/nima1994/article/details/51738208,系统托盘支持,2016-06-23 01:19:31,139,0
+109,http://blog.csdn.net/nima1994/article/details/51718908,大数相乘,2016-06-20 10:06:53,248,0
+110,http://blog.csdn.net/nima1994/article/details/51714243,大数相加,2016-06-19 21:44:41,178,0
+111,http://blog.csdn.net/nima1994/article/details/51699076,算法与数据结构描述,2016-06-17 12:12:59,189,0
+112,http://blog.csdn.net/nima1994/article/details/51683638,修改数组大小扩充数组,2016-06-15 16:57:07,340,0
+113,http://blog.csdn.net/nima1994/article/details/51683637,HelloWorld帧速率,2016-06-15 16:57:04,148,0
+114,http://blog.csdn.net/nima1994/article/details/51683634,括号配对问题,2016-06-15 16:56:58,171,0
+115,http://blog.csdn.net/nima1994/article/details/51683084,枚举与静态final,2016-06-15 16:05:28,989,0
+116,http://blog.csdn.net/nima1994/article/details/51579426,Java成员变量是自身、本类对象,2016-06-03 15:43:45,970,0
+117,http://blog.csdn.net/nima1994/article/details/51029016,sublime Text隐藏侧边栏等快捷键,2016-03-31 18:13:02,11924,1
+118,http://blog.csdn.net/nima1994/article/details/50997493,导航多级下拉菜单,2016-03-28 14:09:46,288,0
+119,http://blog.csdn.net/nima1994/article/details/50986098,十进制向任意进制转换,2016-03-26 11:52:49,221,0
+120,http://blog.csdn.net/nima1994/article/details/46684411,单链表环的位置判定及循环次数,2015-06-29 18:09:40,359,0
