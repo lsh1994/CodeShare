@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>微文悦读</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="__PUBLIC__/pintuer/pintuer.css">
+    <link rel="stylesheet" href="__PUBLIC__/css/pagination.css">
+</head>
+
+<body>
+<div id="page1">
+    <include file="Public/page/index_header.html" />
+</div>
+
+<div class="container">
+    <div class="border border-blue padding">
+        <volist name="list" id="vo">
+            <div class="panel margin-large">
+                <div class="panel-body">
+                    <a href="{$vo.article_url}"><h2 class="margin text-green">{$vo.title}</h2></a>
+                    <div class="padding">{$vo.content}...</div>
+                    <div class="text-small text-right">
+                        <span class="margin-right">发布时间：{$vo.date}</span>
+                        <span class="margin-right">作者：{$vo.nickname}</span>
+                    </div>
+                    <div class="text-small text-right">
+                        <span class="margin-right margin">公众号：{$vo.media_value}</span>
+                    </div>
+                </div>
+            </div>
+        </volist>
+
+    </div>
+
+    <div class="pages margin text-center">{$page}</div>
+
+</div>
+
+<div id="page2">
+    <include file="Public/page/index_footer.html" />
+</div>
+
+<script src="__PUBLIC__/pintuer/jquery.js"></script>
+<script src="__PUBLIC__/pintuer/pintuer.js"></script>
+
+
+</body>
+
+</html>

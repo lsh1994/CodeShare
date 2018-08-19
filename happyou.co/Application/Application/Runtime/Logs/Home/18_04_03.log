@@ -1,0 +1,66 @@
+[ 2018-04-03T00:10:10+08:00 ] 218.199.141.6 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008936s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 42 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.094794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.094857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009658s ]
+
+[ 2018-04-03T06:40:57+08:00 ] 106.11.222.214 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 42 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007829s ]
+
+[ 2018-04-03T06:40:58+08:00 ] 106.11.222.67 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 42 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015858s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+

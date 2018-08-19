@@ -1,0 +1,228 @@
+[ 2018-02-02T01:30:43+08:00 ] 68.180.229.98 /index.php/Home/Gallery/show_img/p/13.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003014s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+SQL: SHOW COLUMNS FROM `think_gallery` [ RunTime:0.0026s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_gallery` LIMIT 1   [ RunTime:0.0024s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT * FROM `think_gallery` ORDER BY id desc LIMIT 360,30   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/dfcf2cd9cf6b646e145d81de9c56bc96.php 第 41 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/dfcf2cd9cf6b646e145d81de9c56bc96.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.031362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031469s ]
+
+[ 2018-02-02T04:38:46+08:00 ] 68.180.229.98 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002858s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 42 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.101816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012837s ]
+
+[ 2018-02-02T04:45:43+08:00 ] 68.180.229.98 /index.php/Home/Articles/show_articles/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+SQL: SHOW COLUMNS FROM `think_articles` [ RunTime:0.0021s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_articles` LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT * FROM `think_articles` ORDER BY id desc LIMIT 6,6   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 44 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002293s ]
+
+[ 2018-02-02T07:01:04+08:00 ] 68.180.229.98 /index.php/Home/Articles/show_articles/p/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006671s ]
+SQL: SHOW COLUMNS FROM `think_articles` [ RunTime:0.0014s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_articles` LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT * FROM `think_articles` ORDER BY id desc LIMIT 60,6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 44 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.095476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.023813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023904s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.032089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.032183s ]
+
+[ 2018-02-02T07:53:51+08:00 ] 68.180.229.98 /index.php/Home/Articles/show_articles/p/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004640s ]
+SQL: SHOW COLUMNS FROM `think_articles` [ RunTime:0.0013s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_articles` LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT * FROM `think_articles` ORDER BY id desc LIMIT 42,6   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 44 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086292s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086343s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005841s ]
+
+[ 2018-02-02T08:02:06+08:00 ] 68.180.229.98 /index.php/Home/Gallery/show_img/p/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+SQL: SHOW COLUMNS FROM `think_gallery` [ RunTime:0.0031s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_gallery` LIMIT 1   [ RunTime:0.0042s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT * FROM `think_gallery` ORDER BY id desc LIMIT 330,30   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/dfcf2cd9cf6b646e145d81de9c56bc96.php 第 41 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/dfcf2cd9cf6b646e145d81de9c56bc96.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2018-02-02T12:58:28+08:00 ] 54.183.130.127 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 42 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.032764s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.032845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.057822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.057915s ]
+
+[ 2018-02-02T13:22:03+08:00 ] 68.180.229.98 /index.php/Home/Articles/show_articles/p/339.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SHOW COLUMNS FROM `think_articles` [ RunTime:0.0022s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_articles` LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT * FROM `think_articles` ORDER BY id desc LIMIT 2028,6   [ RunTime:0.0590s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 44 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009815s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009856s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002141s ]
+
+[ 2018-02-02T21:41:47+08:00 ] 13.56.229.65 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.107768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 42 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.172477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.172597s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.023089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016563s ]
+

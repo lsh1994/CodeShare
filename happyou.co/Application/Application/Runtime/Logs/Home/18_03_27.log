@@ -1,0 +1,49 @@
+[ 2018-03-27T09:37:28+08:00 ] 54.183.165.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 42 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/51f56f8f375e1b2493439729eff22748.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082322s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005771s ]
+
+[ 2018-03-27T11:11:44+08:00 ] 106.11.157.135 /index.php/Home/Articles/show_articles.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007158s ]
+SQL: SHOW COLUMNS FROM `think_articles` [ RunTime:0.0014s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_articles` LIMIT 1   [ RunTime:0.0139s ]
+NOTIC: [2] Invalid argument supplied for foreach() /home/adlsh/public_html/ThinkPHP/Library/Think/Db/Driver.class.php 第 504 行.
+SQL: SELECT * FROM `think_articles` ORDER BY id desc LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 44 行.
+NOTIC: [8] Undefined index: user /home/adlsh/public_html/Application/Runtime/Cache/Home/488f29f85e04ce1b07cdd2e6e11d3c70.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009744s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010483s ]
+

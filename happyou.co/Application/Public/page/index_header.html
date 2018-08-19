@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Title-娜塔莎个人网站</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="__PUBLIC__/pintuer/pintuer.css">
+</head>
+<body>
+	<div class="container">
+		<div class="container-layout padding-big-top padding-big-bottom">
+			<div class="line">
+				<div class="xl12 xs5 xm6 xb7">
+					<button class="button icon-navicon float-right"
+						data-target="#header-demo1"></button>
+					<a href="#"> <img src="__PUBLIC__/img/iconall.png" alt="娜塔莎个人网站" />
+					</a>
+				</div>
+				<div class="xl12 xs7 xm6 xb5 padding-small-top">
+					<ul class="nav nav-menu nav-inline nav-navicon" id="header-demo1">
+						<li><a href="{:U('Index/welcome')}">首页</a></li>
+						<li><a href="{:U('Notes/articles')}">轻笔记</a></li>
+						<li><a href="{:U('Gallery/show_img')}">图库</a></li>
+						<li><a href="{:U('Articles/show_articles')}">微文悦读</a></li>
+						<li class=""><a href="">更多<span class="arrow"></span></a>
+							<ul class="drop-menu">
+								<li>
+									
+										<if condition="$Think.session.user neq null">
+											<a href="{:U('User/about')}"><span class="icon-user margin-right"></span>{$Think.session.user.username}</a>
+										<else/>
+											<a href="{:U('User/login')}"><span class="icon-user margin-right"></span>未登录</a>
+										</if>
+									
+								</li>
+								<if condition="$Think.session.user neq null">
+									<li><a href="{:U('User/logout')}">退出</a></li>
+								</if>
+								
+								
+							</ul></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="__PUBLIC__/pintuer/jquery.js"></script>
+	<script src="__PUBLIC__/pintuer/pintuer.js"></script>
+
+</body>
+</html>

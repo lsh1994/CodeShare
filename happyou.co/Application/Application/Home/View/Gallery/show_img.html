@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>图集</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="__PUBLIC__/pintuer/pintuer.css">
+    <link rel="stylesheet" href="__PUBLIC__/css/pagination.css">
+</head>
+<body>
+<div id="page1">
+    <include file="Public/page/index_header.html"/>
+</div>
+
+<div class="container">
+
+
+    <div id="masonry" class="container-fluid">
+        <volist name="list" id="vo">
+           <div class="box">
+                <img src="{$vo.url}">
+            </div>
+        </volist>
+
+    </div>
+    <div class="pages margin text-center">{$page}</div>
+</div>
+
+<div id="page2">
+    <include file="Public/page/index_footer.html"/>
+</div>
+
+<script src="__PUBLIC__/pintuer/jquery.js"></script>
+<script src="__PUBLIC__/pintuer/pintuer.js"></script>
+<script src="http://jq22.qiniudn.com/masonry-docs.min.js"></script>
+<script>
+    $(function() {
+        var $container = $('#masonry');
+        $container.imagesLoaded(function() {
+            $container.masonry({
+                itemSelector: '.box',
+                gutter: 20,
+                isAnimated: true,
+            });
+        });
+    });
+</script>
+
+</body>
+</html>

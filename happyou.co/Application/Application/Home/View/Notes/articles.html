@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>图集</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="__PUBLIC__/pintuer/pintuer.css">
+    <link rel="stylesheet" href="__PUBLIC__/css/pagination.css">
+</head>
+<body>
+<div id="page1">
+    <include file="Public/page/index_header.html"/>
+</div>
+
+<div class="container">
+
+    <if condition="count($list) eq 0">
+        <div class="text-center" style="margin: 50px auto">
+            没有任何笔记，前往<a href="{:U('Notes/note_edit')}" class="text-main">创建</a>
+        </div>
+    </if>
+
+    <div class="padding">
+        <volist name="list" id="vo">
+            <div class="border border-green padding">
+                {$vo.content|htmlspecialchars_decode}
+                <div class="text-center">
+                    <span class="margin-right">发布时间：{$vo.create_time}</span>
+                    <span class="margin-right">更新时间：{$vo.update_time}</span>
+                    <a class="margin-right" href="{:U('Notes/delete')}?id={$vo.id}">删除</a>
+                    <a class="margin-right" href="__PUBLIC__/page/model.html">编辑</a>
+                </div>
+            </div>
+
+        </volist>
+    </div>
+    <div class="pages margin text-center">{$page}</div>
+    <div class="fixed float-right margin-large" data-style="fixed-bottom" data-offset-fixed="10">
+        <a href="{:U('Notes/note_edit')}" class="text-main"><img src="__PUBLIC__/img/add.png" style="width: 30px;" alt="新建笔记"></a>
+    </div>
+</div>
+
+<div id="page2">
+    <include file="Public/page/index_footer.html"/>
+</div>
+
+<script src="__PUBLIC__/pintuer/jquery.js"></script>
+<script src="__PUBLIC__/pintuer/pintuer.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>用户信息</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="__PUBLIC__/pintuer/pintuer.css">
+</head>
+
+<body>
+<div id="page1">
+    <include file="Public/page/index_header.html" />
+</div>
+
+<div class="container">
+    <div class="margin text-center text-blue">
+        <div class="margin">用户名：{$_SESSION['user']['username']}</div>
+        <div class="margin">邮箱：{$_SESSION['user']['email']}</div>
+        <div class="margin">账户状态：正常</div>
+    </div>
+</div>
+
+<div id="page2">
+    <include file="Public/page/index_footer.html" />
+</div>
+
+<script src="__PUBLIC__/pintuer/jquery.js"></script>
+<script src="__PUBLIC__/pintuer/pintuer.js"></script>
+
+</body>
+
+</html>
