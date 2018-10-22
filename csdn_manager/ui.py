@@ -93,8 +93,8 @@ class Ui_MainWindow(object):
                 self.tableWidget.setCellWidget(total,0,label)
 
                 self.tableWidget.setItem(total, 1, QtWidgets.QTableWidgetItem(i[2]))
-                self.tableWidget.setItem(total, 2, QtWidgets.QTableWidgetItem(i[3]))
-                self.tableWidget.setItem(total, 3, QtWidgets.QTableWidgetItem(i[4]))
+                self.tableWidget.setItem(total, 2, QtWidgets.QTableWidgetItem(str(i[3])))
+                self.tableWidget.setItem(total, 3, QtWidgets.QTableWidgetItem(str(i[4])))
                 total+=1
                 self.datas.append(i)
                 self.number[0]+=int(i[3])
