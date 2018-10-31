@@ -1,7 +1,7 @@
 import sys
 
 from PyQt5.QtWidgets import QApplication
-from ToolsList import maingui
+import maingui
 
 
 if __name__ == '__main__':

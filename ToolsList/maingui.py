@@ -7,9 +7,9 @@ from PyQt5.QtCore import QObject, pyqtSignal, Qt
 from PyQt5.QtGui import QIcon, QTextOption
 from PyQt5.QtWidgets import QTextEdit, QVBoxLayout, QHBoxLayout, QPushButton, QMainWindow, qApp, QFileDialog, \
     QApplication, QProgressBar
-from ToolsList import excfiledlg
-from ToolsList import excfileThread
-import ToolsList.dedupfileThread as dpT
+import excfiledlg
+import excfileThread
+import dedupfileThread as dpT
 
 
 class EmittingStream(QObject):
