@@ -1,8 +1,9 @@
 ### 源码备份  
 
+
 blog: csdn博客所用，https://blog.csdn.net/nima1994   
 
-csdn_manager_qt: 基于pyqt5的CSDN评论、浏览量监控工具  
+csdn_manager_qt: 基于pyqt5的CSDN评论、浏览量监控工具，https://blog.csdn.net/nima1994/article/details/79631792  
 
 
 dizhiziliao_competition: 首届地质资料应用比赛结果展示   
